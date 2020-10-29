@@ -305,6 +305,7 @@ if __name__ == "__main__":
 ### Setting Up to Run Headless
 To run Kinect when no display is kinected you will need to follow the directions here:
 
+Note: startin X on :0 and exporting the display was enough for Nano and Xavier NX
 https://gist.github.com/shehzan10/8d36c908af216573a1f0
 
 Essentially you need to get the X server running so that the OPEN GL libaries are loaded
