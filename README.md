@@ -66,7 +66,7 @@ mkdir build
 
 cd build
 
-build freenect2
+# build freenect2
 cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/freenect2
 
 make
