@@ -83,9 +83,9 @@ sudo ./bin/Protonect
 
 With the kinect plugged in you should see the Xbox symbol light up, and 3 infrared lights should glow in front on the Kinect V2.
 
-NOTE: Currently you will need a monitor plugged in for this to work.
+NOTE: Currently you will need a monitor plugged in for this to work, or go down to the bottom to see instructions to set up X on virtual display.
 
-Setting up Python Bindings
+### Setting up Python Bindings
 cd ~
 
 git clone https://github.com/r9y9/pylibfreenect2.git
