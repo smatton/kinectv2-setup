@@ -11,9 +11,9 @@ The Xbox Kinect modules were discontinued and Microsoft has revived the hardware
 
 Several other manufactures offer depth processing devices, but are not at the same level as Microsoft, but cost less.
 
-Intel RealSense
-StereoLabs Zed
-Orbbec astra
+* Intel RealSense
+* StereoLabs Zed
+* Orbbec astra
 Other hardware providers also have the sensors for integrated applications
 
 
@@ -24,7 +24,7 @@ What you need :
 
 Microsoft Kinect V2 ~ $40 at local gaming store
 Microsoft Kinect V2 powered USB pack ~$25 amazon
-Nvidia Nano
+Nvidia Nano, TX2, NX or other
 Monitor
 Keyboard
 Mouse
